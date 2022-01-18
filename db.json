@@ -5,27 +5,27 @@
         "img": "./resources/images/img.webp",
         "path": "/tuti-fruti",
         "status":"In progress",
+        "about": "Lorem ipsum dolor sit amet",
+        "type": "Group",
         "tags": [{
             "tag1":"react",
             "tag2":"bootstrap",
             "tag3":"context"
-        }],
-        "about": "Lorem ipsum dolor sit amet",
-        "type": "Group"        
+        }]                
       },
       {
         "id": 2,
         "img": "./resources/images/img.webp",
         "path": "/bakery",
         "status":"Finished",
+        "about": "Lorem ipsum dolor sit amet",
+        "type": "Individual",
         "tags": [{
             "tag1":"react",
             "tag2":"bootstrap",
             "tag3":"context",
             "tag4":"redux"
-        }],
-        "about": "Lorem ipsum dolor sit amet",
-        "type": "Individual"
+        }]
       }
     ]
   }
