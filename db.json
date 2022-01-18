@@ -19,7 +19,8 @@
         "tags": [{
             "tag1":"react",
             "tag2":"bootstrap",
-            "tag3":"context"
+            "tag3":"context",
+            "tag4":"redux"
         }],
         "about": "Lorem ipsum dolor sit amet",
         "type": "Individual"
