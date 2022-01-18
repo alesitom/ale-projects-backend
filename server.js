@@ -12,3 +12,7 @@ const port = process.env.PORT || 3003
 server.listen(port, () => {
     console.log(`JSON Server is running on port ${port}`)
 })
+
+module.exports = function () {
+    return { posts: [ ... ] }
+  })
