@@ -4,18 +4,20 @@
         "id": 1,
         "img": "./resources/images/img.webp",
         "path": "/tuti-fruti",
+        "status":"In progress",
         "tags": [{
             "tag1":"react",
             "tag2":"bootstrap",
             "tag3":"context"
         }],
         "about": "Lorem ipsum dolor sit amet",
-        "type": "Group"
+        "type": "Group"        
       },
       {
         "id": 2,
         "img": "./resources/images/img.webp",
         "path": "/bakery",
+        "status":"Finished"
         "tags": [{
             "tag1":"react",
             "tag2":"bootstrap",
