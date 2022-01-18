@@ -2,11 +2,15 @@
     "projects": [
       {
         "id": 1,
-        "img": "John.x.Doe",
-        "path": 32,
-        "tags": "Jazz",
+        "img": "./resources/images/img.webp",
+        "path": "/tuti-fruti",
+        "tags": [{
+            "tag1":"react",
+            "tag2":"bootstrap",
+            "tag3":"context"
+        }],
         "about": "Lorem ipsum dolor sit amet",
-        "type": "Grupal"
+        "type": "Group"
       },
       {
         "id": 2,
